@@ -8,7 +8,6 @@ public class Two {
         System.out.print("Enter year: ");
         int number=sc.nextInt();
         int rest = number % 4;
-
         if (rest == 0)
             System.out.println("Yes, it's a leapyear!");
         else {
