@@ -7,7 +7,7 @@ public class Three {
         int One = 3;
         int Two = 5;
         int Three = 8;
-        System.out.println (One + Two + Three);
+        System.out.println (One + Two + Three/ 3 );
 
     }
 }
